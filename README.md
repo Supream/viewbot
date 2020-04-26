@@ -1,0 +1,2 @@
+# viewbot
+Generates eBay views
